@@ -332,6 +332,21 @@
                     ]
                 }
             ]
+        },
+        "1410706243865022627": {
+            "hash": "a",
+            "attackable": false,
+            "level": 2,
+            "tags": [
+                {
+                    "text": "VAPE OWNER",
+                    "color": [
+                        255,
+                        50,
+                        50
+                    ]
+                }
+            ]
         }
     },
     "WhitelistedTags": {
