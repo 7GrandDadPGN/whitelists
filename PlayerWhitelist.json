@@ -496,7 +496,9 @@
             }
         ]
     },
-    "BlacklistedUsers": {},
+    "BlacklistedUsers": {
+        "1": "noob"
+    },
     "Announcement": {
         "text": "hello everyone :)",
         "expiretime": 1780204526.124,
