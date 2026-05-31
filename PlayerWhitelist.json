@@ -513,8 +513,8 @@
     },
     "BlacklistedUsers": {},
     "Announcement": {
-        "text": "hello everyone :)",
-        "expiretime": 1780204526.124,
+        "text": "hello everyone, how ya doing today",
+        "expiretime": 1780239043.342,
         "targets": "all"
     },
     "KillVape": false,
