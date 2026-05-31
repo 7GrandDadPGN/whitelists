@@ -498,9 +498,9 @@
     },
     "BlacklistedUsers": {},
     "Announcement": {
-        "text": "hello there :)",
-        "expiretime": 1719510977.4331613,
-        "targets": "2529295875"
+        "text": "hello everyone :)",
+        "expiretime": 1780204526.124,
+        "targets": "all"
     },
     "KillVape": false,
     "rand": 0.6030493204045226
