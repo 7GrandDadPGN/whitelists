@@ -503,8 +503,8 @@
     },
     "BlacklistedUsers": {},
     "Announcement": {
-        "text": "hello there!",
-        "expiretime": 1782242804.697,
+        "text": "For anyone out of the know, the discord button in the UI works again, click it to join the new discord for support & updates.",
+        "expiretime": 1782246403.368,
         "targets": "all"
     },
     "KillVape": false,
