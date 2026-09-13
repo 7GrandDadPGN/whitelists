@@ -339,16 +339,16 @@
             ]
         },
         "998473780609429584": {
-            "hash": "f53aa17f2d34e8807f90994560c2af074f5140cc91f3cab40ab887881724d3741c95daec943129f955d254eeb0d636b28b469cb94742e584c0ab096ecc084aaa",
+            "hash": "4d8dd135027c29cd36a0f26ff06533f18751f48b1ebee465ca0721a64da166c37fbe179a68751e3c0edb32a64af9a6c073e14a9493248b51d9150a11759db2fa",
             "attackable": false,
             "level": 1,
             "tags": [
                 {
                     "text": "furry",
                     "color": [
-                        255,
-                        255,
-                        255
+                        238,
+                        130,
+                        238
                     ]
                 }
             ]
