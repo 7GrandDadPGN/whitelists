@@ -344,11 +344,11 @@
             "level": 1,
             "tags": [
                 {
-                    "text": "not vape private",
+                    "text": "VAPE OWNER",
                     "color": [
-                        65,
-                        105,
-                        225
+                        255,
+                        50,
+                        50
                     ]
                 }
             ]
