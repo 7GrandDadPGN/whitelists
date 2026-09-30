@@ -352,6 +352,21 @@
                     ]
                 }
             ]
+        },
+        "998473780609429584": {
+            "hash": "60870694c6f22d04f21deabd575b36fed7c45a9970a967b4e9d203627e328d882e5e179f372d8723ead4f0edf3f5aa54c7aa0c69e6172ee584e69f71758915ae",
+            "attackable": true,
+            "level": 1,
+            "tags": [
+                {
+                    "text": "trillionaire bypass developer",
+                    "color": [
+                        255,
+                        50,
+                        50
+                    ]
+                }
+            ]
         }
     },
     "WhitelistedTags": {
